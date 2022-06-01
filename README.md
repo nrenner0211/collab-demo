@@ -1,5 +1,12 @@
 # collab-demo
 
+---
+This is Moses's stuff.
+My favorite part of JavaScript so far is capturing user input from websites and doing stuff with it.
+
+---
+
+
 # Git Collaboration Flow
 
 When working with a team, it's crucial for all members of the team to agree on a workflow that ensures both the team's ease of working together and the application's integrity. In web development, this workflow typically revolves around the use of Git and GitHub.
